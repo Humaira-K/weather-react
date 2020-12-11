@@ -5,7 +5,7 @@ export default function Footer() {
     <footer id="github-linkedin-link">
       <p>
         <a
-          href="https://github.com/Humaira-K/Weather-App"
+          href="https://github.com/Humaira-K/weather-react"
           target="_blank"
           rel="noreferrer"
         >
